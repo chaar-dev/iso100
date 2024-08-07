@@ -473,7 +473,11 @@
 # Team
 --------------------------------------------------------------*/
 .team{
-    background-color: white;
+   
+   background-image: url("assets/imgs/background2.png");
+   background-position: center;
+   background-size: cover;
+   background-repeat: no-repeat;
   }
   
   
