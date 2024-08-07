@@ -1724,7 +1724,7 @@ main h2{
 }
 
 #footerback{
-    background-image: url("/assets/imgs/background2.png");
+    background-image:url(../img/background2.png) center center no-repeat;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
