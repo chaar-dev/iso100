@@ -1722,3 +1722,11 @@ main h2{
   background-size: cover;
   margin-bottom: 8%;
 }
+
+#footerback{
+    background-image: url("/assets/imgs/background2.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+   
